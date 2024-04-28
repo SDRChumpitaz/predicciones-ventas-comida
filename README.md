@@ -1,2 +1,2 @@
 # predicciones-ventas-comida
-Predicción de ventas para productos alimenticios vendidas en diversas tiendas.
+Se realiza un estudio de una base de datos de comida para usar un regresor y predecir la cantidad para vender.
